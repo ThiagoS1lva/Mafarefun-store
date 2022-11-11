@@ -1,0 +1,50 @@
+body {
+    background-image: url(nossa-equipe/fundo.png);
+    background-repeat: no-repeat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-size: cover;
+    background-position: center center;
+}
+
+.Ana{
+    display: flex;
+    border-radius:100px;
+
+}
+.Thiago {
+    display: flex;  
+    border-radius:100px;
+}
+div {
+    display: inline-block;
+}
+.Martha {
+    border-radius:100px;
+
+}
+.Philipe {
+    border-radius: 100px;  /* borda na foto*/
+
+}
+.Karolayne {
+    border-radius: 100px;
+}
+.card {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.card1 {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5%;
+}
+.card2 {
+    width: 100%;
+    display: flex;
+    justify-content: space-around; 
+
+}
+
+/*como comentar*/
