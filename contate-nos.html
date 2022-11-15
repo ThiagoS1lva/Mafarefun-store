@@ -9,7 +9,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="design.css">
+    <link rel="stylesheet" href="style.css">
     <link rel="shortcut icon" href="imagens/icon sem fundo.png" type="imagem/x-icon">
     <title>Mafarefun Arte | Contate-nos</title>
 </head>
@@ -29,10 +29,6 @@
                 </ul>
             </nav>
         </div>
-        <!--Barra de pesquisa-->
-        <div class="divBusca">
-            <input type="text" class="txtBusca" placeholder="O que você procura?">
-        </div>
 
         <div class="menu2">
             <!--Icones do canto-->
@@ -44,8 +40,53 @@
                     height="27px"></a>
         </div>
     </div>
-        <!--Fim da criação do menu-->
+    <!--Fim da criação do menu-->
 
+    <div class="logoAnimado">
+        <img src="imagens/logo-animado.gif" alt="logo da marca" height="400px">
+    </div>
+    <div class="containerM">
+        <div class="container">
+            <div class="header">
+                <h2>FORMULÁRIO DE CONTATO</h2>
+            </div>
+
+            <form action="https://formsubmit.co/marthalb2@hotmail.com" method="post" id="form" class="form">
+                <div class="form-control">
+                    <label for="nome">Nome completo</label>
+                    <input name="nome" type="text" id="username" placeholder="Digite seu nome" required/>
+                </div>
+
+                <div class="form-control">
+                    <label for="email">Email</label>
+                    <input name="email" type="email" id="email" placeholder="Digite seu email" required/>
+                </div>
+
+                <div class="form-control">
+                    <label for="mensagem">Mensagem</label>
+                    <textarea name="mensagem" id="mensagem" cols="30" rows="10"></textarea>
+                </div>
+                <input type="hidden" name="_captcha" value="false">
+                <div class="btn">
+                <button type="submit">Enviar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="link-bio">
+        <div class="link-bio-img">
+            <a href="https://api.whatsapp.com/send?phone=5521999732858&text=Ol%C3%A1%2C%20gostaria%20de%20tirar%20algumas%20d%C3%BAvidas%20sobre%20as%20roupas!"
+                target="_blank"> <img src="imagens/whatsapp icon.png" class="animation" alt="whatsapp logo"
+                    height="70px" width="70px"></a>
+            <a href="https://www.instagram.com/mafarefunarte/" target="_blank"> <img src="imagens/instagram.png"
+                    class="animation" alt="Instagram logo" height="75px" width="100px"></a>
+        </div>
+    </div>
+
+
+    <script src="https://kit.fontawesome.com/715fde22b8.js" crossorigin="anonymous"></script>
+    <script src="scripts.js"></script>
 </body>
 
 </html>

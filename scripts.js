@@ -51,3 +51,5 @@ function start1() {
 window.addEventListener("load", start1)
 
 //---------------------------------------------------------------
+// Script contate-nos
+
