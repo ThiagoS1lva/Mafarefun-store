@@ -33,7 +33,7 @@ let time1 = 2000,
 
 function nextImage1() {
 
-    images1[currentImageIndex1].classList.remove("selected")
+    images1[currentImageIndex1].classList.remove("selected");
     currentImageIndex1++
 
     if(currentImageIndex1 >= max1)
@@ -51,5 +51,4 @@ function start1() {
 window.addEventListener("load", start1)
 
 //---------------------------------------------------------------
-// Script contate-nos
 
