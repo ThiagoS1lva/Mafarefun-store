@@ -7,15 +7,15 @@ let modelsJson = [
         img: 'img-copia/Camisa Ogum Brabo Guerreiro.gif',
         price: [50.26, 50.26, 50.26, 50.26, 50.26],
         sizes: ['P', 'M', 'G', 'GG', 'XGG'],
-        description: 'Camisa Ogum  Brabo Guerreiro'
+        description: 'Camisa Ogum  Bravo Guerreiro'
     },
     {
         id: 2,
-        name: 'Camisa Kosí òrisá',
+        name: 'Camisa Kosí òrisà',
         img: 'img-copia/Camisa Kosí òrisá.gif',
         price: [50.26, 50.26, 50.26, 50.26, 50.26],
         sizes: ['P', 'M', 'G', 'GG', 'XGG'],
-        description: 'Camisa Kosí òrisá'
+        description: 'Camisa Kosí òrisà'
     },
     {
         id: 3,

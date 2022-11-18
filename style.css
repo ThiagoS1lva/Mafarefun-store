@@ -21,6 +21,9 @@ nav {
 #mainMenu {
     display: block;
 }
+.selecionado {
+    background: red;
+}
 
 .menu {
     margin-top: 20px;

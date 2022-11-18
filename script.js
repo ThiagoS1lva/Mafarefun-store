@@ -196,8 +196,3 @@ function updateCart() {
     }
 };
 
-//Mobile
-
-
-
-

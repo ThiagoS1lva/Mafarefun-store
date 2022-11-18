@@ -24,6 +24,10 @@ nav {
 #mainMenu {
     display: block;
 }
+.selecionado {
+    background-color: red;
+}
+
 
 .menu {
     margin-top: 20px;
@@ -164,7 +168,7 @@ div {
 .card1 {
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     margin-bottom: 5%;
 }
 .card2 {
@@ -173,5 +177,105 @@ div {
     justify-content: space-around; 
 
 }
+.card1 #nomeThiago{
+    font-size: 40px;
+    display: flex;
+    font-family: 'Bebas Neue', cursive;
+}
 
+.card1 #nomeAnalice{
+    font-size: 40px;
+    display: flex;
+    font-family: 'Bebas Neue', cursive;
+}
+.card1 #nomeMartha{
+    font-size: 40px;
+    display: flex;
+    font-family: 'Bebas Neue', cursive;
+}
+.card2 #nomePhilipe{
+    font-size: 40px;
+    display: flex;
+    font-family: 'Bebas Neue', cursive;
+}
+.card2 #nomeKarol{
+    font-size: 40px;
+    display: flex;
+    font-family: 'Bebas Neue', cursive;
+}
+.card1 #cargoThiago{
+    font-size: 25px;
+    display: flex;
+    font-family: 'Bebas Neue', cursive;
+}
+.card1 #cargoAnalice{
+    font-size: 25px;
+    display: flex;
+    font-family: 'Bebas Neue', cursive;
+}
+.card1 #cargoMartha{
+    font-size: 25px;
+    display: flex;
+    font-family: 'Bebas Neue', cursive;
+}
+.card2 #cargoPhilipe{
+    font-size: 25px;
+    display: flex;
+    font-family: 'Bebas Neue', cursive;
+}
+.card2 #cargoKarol{
+    font-size: 25px;
+    display: flex;
+    font-family: 'Bebas Neue', cursive;
+}
+.card1 #cargoThiago2{
+    font-size: 25px;
+    display: flex;
+    font-family: 'Bebas Neue', cursive;
+}
+.card1 #cargoAnalice2{
+    font-size: 25px;
+    display: flex;
+    font-family: 'Bebas Neue', cursive;
+}
+.card1 #cargoMartha2{
+    font-size: 25px;
+    display: flex;
+    font-family: 'Bebas Neue', cursive;
+}
+.card2 #cargoPhilipe2{
+    font-size: 25px;
+    display: flex;
+    font-family: 'Bebas Neue', cursive;
+}
+.card2 #cargoKarol2{
+    font-size: 25px;
+    display: flex;
+    font-family: 'Bebas Neue', cursive;
+}
+.card1 #cargoThiago3{
+    font-size: 15px;
+    display: flex;
+    font-family: 'Raleway', sans-serif;
+}
+.card1 #cargoAnalice3{
+    font-size: 15px;
+    display: flex;
+    font-family: 'Raleway', sans-serif;
+}
+.card1 #cargoMartha3{
+    font-size: 15px;
+    display: flex;
+    font-family: 'Raleway', sans-serif;
+}
+.card2 #cargoPhilipe3{
+    font-size: 15px;
+    display: flex;
+    font-family: 'Raleway', sans-serif;
+}
+.card2 #cargoKarol3{
+    font-size: 15px;
+    display: flex;
+    font-family: 'Raleway', sans-serif;
+}
 /*como comentar*/
