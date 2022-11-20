@@ -97,6 +97,12 @@ nav {
     text-align: center;
 }
 
+@media(max-width:840px) {
+    #mainMenu {
+        display: none;
+    }
+}
+
 /*-------- FIM DO MENU CSS -----------*/
 /* ------ Barra de busca -------- */
 .divBusca {

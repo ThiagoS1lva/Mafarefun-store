@@ -24,10 +24,6 @@ nav {
 #mainMenu {
     display: block;
 }
-.selecionado {
-    background-color: red;
-}
-
 
 .menu {
     margin-top: 20px;
@@ -274,6 +270,31 @@ div {
     font-family: 'Raleway', sans-serif;
 }
 .card2 #cargoKarol3{
+    font-size: 15px;
+    display: flex;
+    font-family: 'Raleway', sans-serif;
+}
+.card1 #cargoThiago4{
+    font-size: 15px;
+    display: flex;
+    font-family: 'Raleway', sans-serif;
+}
+.card1 #cargoAnalice4{
+    font-size: 15px;
+    display: flex;
+    font-family: 'Raleway', sans-serif;
+}
+.card1 #cargoMartha4{
+    font-size: 15px;
+    display: flex;
+    font-family: 'Raleway', sans-serif;
+}
+.card2 #cargoPhilipe4{
+    font-size: 15px;
+    display: flex;
+    font-family: 'Raleway', sans-serif;
+}
+.card2 #cargoKarol4{
     font-size: 15px;
     display: flex;
     font-family: 'Raleway', sans-serif;
