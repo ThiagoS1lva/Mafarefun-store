@@ -90,6 +90,10 @@ nav {
 .menuTransição {
     text-align: center;
 }
+.selecionado {
+    blackground-color: red;
+}
+
 
 /*-------- FIM DO MENU CSS -----------*/
 /* ------ Barra de busca -------- */
